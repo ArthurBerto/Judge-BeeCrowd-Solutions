@@ -22,7 +22,7 @@ Imprima o tempo necessário seguido da mensagem "minutos".
 
 */
 
-public class Uri1016 {
+public class Bee1016 {
 
 	public static void main(String[] args) {
 		
