@@ -21,7 +21,7 @@ o fim de linha após o resultado, caso contrário, você receberá "Presentation
 
 */
 
-public class Uri1002 {
+public class Bee1002 {
 
 	public static void main(String[] args) {
 
