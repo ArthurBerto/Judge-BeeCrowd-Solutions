@@ -19,7 +19,7 @@ produto, caso contrário seu programa apresentará a mensagem: “Presentation E
 
 */
 
-public class Uri1004 {
+public class Bee1004 {
 
 	public static void main(String[] args) {
 
