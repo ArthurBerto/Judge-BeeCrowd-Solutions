@@ -19,7 +19,7 @@ após a vírgula, seguido da mensagem "km/l".
 
 */
 
-public class Uri1014 {
+public class Bee1014 {
 
 	public static void main(String[] args) {
 
