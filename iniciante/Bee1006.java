@@ -21,7 +21,7 @@ após o resultado, caso contrário, você receberá "Presentation Error".
 
 */
 
-public class Uri1006 {
+public class Bee1006 {
 
 	public static void main(String[] args) {
 
