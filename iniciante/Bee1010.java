@@ -21,7 +21,7 @@ o "R$". O valor deverá ser apresentado com 2 casas após o ponto.
 
 */
 
-public class Uri1010 {
+public class Bee1010 {
 
 	public static void main(String[] args) {
 		
