@@ -20,7 +20,7 @@ linha após o resultado, caso contrário, você receberá "Presentation Error".
 
 */
 
-public class Uri1003 {
+public class Bee1003 {
 
 	public static void main(String[] args) {
 
