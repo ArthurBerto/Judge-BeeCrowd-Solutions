@@ -23,7 +23,7 @@ receberá "Presentation Error".
 
 */
 
-public class Uri1005 {
+public class Bee1005 {
 
 	public static void main(String[] args) {
 
