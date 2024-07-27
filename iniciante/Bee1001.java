@@ -20,7 +20,7 @@ antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
 */
 
-public class Uri1001 {
+public class Bee1001 {
 
 	public static void main(String[] args) {
 		
