@@ -2,7 +2,7 @@ package iniciante;
 
 import java.util.Scanner;
 
-public class Uri1017 {
+public class Bee1017 {
 
 	public static void main(String[] args) {
 
