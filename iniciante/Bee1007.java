@@ -18,7 +18,7 @@ exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
 */
 
-public class Uri1007 {
+public class Bee1007 {
 
 	public static void main(String[] args) {
 
