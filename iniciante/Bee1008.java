@@ -22,7 +22,7 @@ também deve haver um espaço em branco após o $.
 
 */
 
-public class Uri1008 {
+public class Bee1008 {
 
 	public static void main(String[] args) {
 		
